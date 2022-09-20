@@ -1,16 +1,33 @@
-### Hi there 👋
+# hello world, hello! <img src='https://raw.githubusercontent.com/curiosdevcookie/portfolio-v1.4.1/main/wave.gif' width='30px'/>  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=curiosdevcookie) 
+## 👩🏻‍💻 About me:
 
-<!--
-**curiosdevcookie/curiosdevcookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Before finding myself waist-deep in the nerdiness of Software Engineering, I was more of a geek and to this day I am still recovering from being a PhD-student of Ancient History, and I am still quite in love with Latin & Ancient Greek.
 
-Here are some ideas to get you started:
+- 🐇 I love rabbit-holes, especially FP ones
+- 🧱 I’m looking for someone to talk tech and/or pair-program with
+- 💬 Ask me about: whatever is on your mind, shoot
+- 📫 How to reach me: Twitter @curiosdevcookie
+- 😄 How my name sounds: like Mary minus M
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Additional fun facts: Youtube's recommendation system introduced me to programming by showing me JavaScript's Event loop. Also, I'm a passionate carpenter.
+
+Most repos are of a  work-in-progress nature, but for the sake of building in public, I've decided to share them as is 🦖
+
+### ![Twitter Follow](https://img.shields.io/twitter/follow/curiosdevcookie?style=social) & [![Linkedin Badge](https://img.shields.io/badge/-ariadneengelbrecht-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariadne-engelbrecht/)](https://www.linkedin.com/in/ariadne-engelbrecht/).
+
+## ⚡ Technology in stats and numbers
+
+[![curiosdevcookie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=curiosdevcookie&count_private=true&show_icons=true)](https://github.com/curiosdevcookie/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=curiosdevcookie)](https://github.com/curiosdevcookie/github-readme-stats)
+
+## 🤘 Interested in:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+### … to be continued.
+
