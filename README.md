@@ -1,4 +1,4 @@
-# hello world, hello! <img src='https://raw.githubusercontent.com/curiosdevcookie/portfolio-v1.4.1/main/wave.gif' width='30px'/>  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=curiosdevcookie/curiosdevcookie) 
+# hello world, hello! <img src='https://raw.githubusercontent.com/curiosdevcookie/portfolio-v1.4.1/main/wave.gif' width='30px'/>  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=curiosdevcookie.visitor-badge) 
 ## 👩🏻‍💻 About me:
 
 Before finding myself waist-deep in the nerdiness of Software Engineering, I was more of a geek and to this day I am still recovering from being a PhD-student of Ancient History, and I am still quite in love with Latin & Ancient Greek.
