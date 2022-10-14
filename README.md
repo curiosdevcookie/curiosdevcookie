@@ -11,7 +11,7 @@ Before finding myself waist-deep in the nerdiness of Software Engineering, I was
 
 Additional fun facts: Youtube's recommendation system introduced me to programming by showing me JavaScript's Event loop. Also, I'm a passionate carpenter.
 
-Most repos are of a  work-in-progress nature, but for the sake of building in public, I've decided to share them as is 🦖
+Most repos are of a work-in-progress nature, but for the sake of building in public, I've decided to share them as is 🦖
 
 ### ![Twitter Follow](https://img.shields.io/twitter/follow/curiosdevcookie?style=social) & [![Linkedin Badge](https://img.shields.io/badge/-ariadneengelbrecht-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariadne-engelbrecht/)](https://www.linkedin.com/in/ariadne-engelbrecht/).
 
@@ -28,6 +28,7 @@ Most repos are of a  work-in-progress nature, but for the sake of building in pu
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Haskell](https://img.shields.io/badge/-Haskell-1572B6?style=flat-square&logo=haskell)
 
 ### … to be continued.
 
