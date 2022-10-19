@@ -17,9 +17,9 @@ Most repos are of a work-in-progress nature, but for the sake of building in pub
 
 ## ⚡ Technology in stats and numbers
 
-[![curiosdevcookie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=curiosdevcookie&count_private=true&show_icons=true)](https://github.com/curiosdevcookie/github-readme-stats)
+![curiosdevcookie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=curiosdevcookie&count_private=true&show_icons=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=curiosdevcookie)](https://github.com/curiosdevcookie/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=curiosdevcookie)
 
 ## 🤘 Interested in:
 
