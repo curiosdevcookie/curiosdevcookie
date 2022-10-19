@@ -13,11 +13,12 @@ Additional fun facts: Youtube's recommendation system introduced me to programmi
 
 Most repos are of a work-in-progress nature, but for the sake of building in public, I've decided to share them as is 🦖
 
-### ![Twitter Follow](https://img.shields.io/twitter/follow/curiosdevcookie?style=social) & [![Linkedin Badge](https://img.shields.io/badge/-ariadneengelbrecht-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariadne-engelbrecht/)](https://www.linkedin.com/in/ariadne-engelbrecht/).
+### ![Twitter Follow](https://img.shields.io/twitter/follow/curiosdevcookie?style=social) & ![Linkedin Badge](https://img.shields.io/badge/-ariadneengelbrecht-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariadne-engelbrecht/)
 
 ## ⚡ Technology in stats and numbers
 
-![curiosdevcookie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=curiosdevcookie&count_private=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=curiosdevcookie&count_private=true)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=curiosdevcookie)
 
