@@ -27,7 +27,6 @@ Most repos are of a work-in-progress nature, but for the sake of building in pub
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat-square&logo=haskell&logoColor=white)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=flat-square&logo=elixir&logoColor=white)
 ### … to be continued.
 
