@@ -1,7 +1,7 @@
 # hello world, hello! <img src='https://raw.githubusercontent.com/curiosdevcookie/portfolio-v1.4.1/main/wave.gif' width='30px'/>  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=curiosdevcookie.visitor-badge) 
 ## 👩🏻‍💻 About me:
 
-Before finding myself waist-deep in the nerdiness of Software Engineering, I was more of a geek and to this day I am still recovering from being a PhD-student of Ancient History, and I am still quite in love with Latin & Ancient Greek.
+Before finding myself waist-deep in the nerdiness of Software Engineering, I was more of a geek and to this day I am still recovering from being a PhD-student of Ancient History ☺️, and I am still quite in love with Latin & Ancient Greek 🙂.
 
 - 🐇 I love rabbit-holes, especially FP ones
 - 🧱 I’m looking for someone to talk tech and/or pair-program with
@@ -18,7 +18,7 @@ Most repos are of a work-in-progress nature, but for the sake of building in pub
 ## ⚡ Technology in stats and numbers
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=curiosdevcookie)
-![Github stats](https://github-readme-stats.vercel.app/api?username=curiosdevcookie&show_icons=true&count_private=true)
+![curiosdevcookie's GitHub stats](https://github-readme-stats.vercel.app/api?username=curiosdevcookie&show_icons=true&theme=transparent&count_private=true)
 
 ## 🤘 Interested in:
 
