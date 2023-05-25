@@ -9,7 +9,7 @@ Before finding myself waist-deep in the nerdiness of Software Engineering, I was
 - 📫 How to reach me: Twitter @curiosdevcookie
 - 😄 How my name sounds: like Mary minus M
 
-Additional fun facts: Youtube's recommendation system introduced me to programming by showing me JavaScript's Event loop. Also, I'm a passionate carpenter.
+Additional fun facts: Youtube's recommendation system introduced me to programming itself by showing me a tech talk abot JavaScript's event loop. Also, I'm a passionate carpenter.
 
 Most repos are of a work-in-progress nature, but for the sake of building in public, I've decided to share them as is 🦖
 
