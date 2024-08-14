@@ -16,11 +16,12 @@ Most repos are of a work-in-progress nature, but for the sake of building in pub
 ## ⚡ Technology in stats and numbers
 
 <section align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=curiosdevcookie&bg_color=00000000" height="200px" alt="Top Languages Card">
-  <img src="https://github-readme-stats.vercel.app/api?username=curiosdevcookie&show_icons=true&theme=transparent&count_private==true&bg_color=00000000" height="200px" alt="curiosdevcookie's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=curiosdevcookie&show_icons=true&theme=transparent&count_private==true&bg_color=00000000" height="200px" alt="curiosdevcookie's GitHub stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=curiosdevcookie&" alt="curiosdevcookie" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=curiosdevcookie&show_icons=true&locale=en&layout=compact" alt="curiosdevcookie" />
 </section>
 
-## 🤘 Interested in:
+<!-- ## 🤘 Interested in:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -28,5 +29,6 @@ Most repos are of a work-in-progress nature, but for the sake of building in pub
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=flat-square&logo=elixir&logoColor=white)
-### … to be continued.
+### … to be continued.-->
+
 
