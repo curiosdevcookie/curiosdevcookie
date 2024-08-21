@@ -15,10 +15,9 @@ Most repos are of a work-in-progress nature, but for the sake of building in pub
 
 ## ⚡ Github Stats
 
-<section align="center">
 <img height="200;" src="https://github-readme-stats.vercel.app/api?username=curiosdevcookie&show_icons=true&theme=transparent&count_private==true&bg_color=00000000" alt="curiosdevcookie's GitHub stats"/>
 <img height="200;" src="https://github-readme-streak-stats.herokuapp.com/?user=curiosdevcookie&" alt="curiosdevcookie" />
-</section>
+
 
 ## 🪜 Languages
 
