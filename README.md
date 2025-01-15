@@ -1,4 +1,4 @@
-ght# hello world, hello! <img src='https://raw.githubusercontent.com/curiosdevcookie/portfolio-v1.4.1/main/wave.gif' width='30px'/>  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=curiosdevcookie.visitor-badge) 
+# hello world, hello! <img src='https://raw.githubusercontent.com/curiosdevcookie/portfolio-v1.4.1/main/wave.gif' width='30px'/>  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=curiosdevcookie.visitor-badge) 
 ## 👩🏻‍💻 About me:
 
 Before finding myself waist-deep in the nerdiness of Software Engineering, I was more of a geek and to this day I am still recovering from being a PhD-student of Ancient History ☺️, and I am still quite in love with Latin & Ancient Greek 🙂.
@@ -16,7 +16,7 @@ Most repos are of a work-in-progress nature, but for the sake of building in pub
 ## ⚡ Github Stats
 
 <img height="200;" src="https://github-readme-stats.vercel.app/api?username=curiosdevcookie&show_icons=true&theme=transparent&count_private==true&bg_color=00000000" alt="curiosdevcookie's GitHub stats"/>
-<img height="200;" src="https://github-readme-streak-stats.herokuapp.com/?user=curiosdevcookie&" alt="curiosdevcookie" />
+<!-- <img height="200;" src="https://github-readme-streak-stats.herokuapp.com/?user=curiosdevcookie&" alt="curiosdevcookie" /> -->
 
 
 ## 🪜 Languages
